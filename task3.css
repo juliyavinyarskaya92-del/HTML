@@ -4,13 +4,10 @@ body {
 .red {
     color: red;
 }
-.green {
+li.green {
     color: green;
 }
-.red {
-    color: red;
-}
-ul ol li.green {
+ul li.green {
     color: green;
 }
 ul ol li.red {
